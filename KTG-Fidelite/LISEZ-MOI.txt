@@ -1,0 +1,18 @@
+KTG FIDELITE - Mode d'emploi
+============================
+
+1. Clic droit sur le zip > "Extraire tout..." (par exemple vers C:\KTG-Fidelite).
+   Ne lancez pas le programme depuis l'interieur du zip.
+
+2. Double-cliquer sur  KTG-Fidelite.exe
+   - L'application s'ouvre dans sa propre fenetre.
+   - Une petite fenetre noire s'ouvre aussi : vous pouvez la REDUIRE (ne la fermez pas).
+
+3. Pour quitter : fermer la fenetre de l'application. Tout s'arrete automatiquement.
+
+Si Windows affiche "Windows a protege votre PC" : cliquer sur "Informations complementaires", puis "Executer quand meme".
+
+Regles : 100 DA = 1 KTG point (arrondi : 850 DA = 9 points), 1 KTG point = 3 minutes de jeu.
+Ces valeurs se changent a tout moment dans Parametres.
+
+SAUVEGARDE : le dossier "data" (cree a cote du programme) contient toute la base. Le copier regulierement.
